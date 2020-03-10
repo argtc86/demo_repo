@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="exercise_2_field" label="Exercise 2 field" language="en" table="x_snc_demo_scopetr_exercise_2_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>exercise_2_field</element>
+            <help/>
+            <hint/>
+            <label>Exercise 2 field</label>
+            <language>en</language>
+            <name>x_snc_demo_scopetr_exercise_2_table</name>
+            <plural>Exercise 2 fields</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-03-10 18:16:08</sys_created_on>
+            <sys_id>61623e54db6b0850dfa3b7bc2996190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Exercise 2 field</sys_name>
+            <sys_package display_value="DEMO_SCOPETRAINING" source="x_snc_demo_scopetr">e361fed0db6b0850dfa3b7bc29961903</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DEMO_SCOPETRAINING">e361fed0db6b0850dfa3b7bc29961903</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_demo_scopetr_exercise_2_table_exercise_2_field_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-03-10 18:16:08</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

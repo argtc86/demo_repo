@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Exercise 2 Table" max_length="40" name="x_snc_demo_scopetr_exercise_2_table" type="collection">
+        <element label="Exercise 2 field" max_length="40" name="exercise_2_field" type="string"/>
+    </element>
+</database>

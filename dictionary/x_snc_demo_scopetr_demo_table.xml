@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Demo Table" max_length="40" name="x_snc_demo_scopetr_demo_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="demo field training" max_length="40" name="demo_field_training" type="string"/>
+    </element>
+</database>
